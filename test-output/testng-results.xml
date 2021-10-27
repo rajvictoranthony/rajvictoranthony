@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5988" started-at="2021-10-21T06:06:44Z" finished-at="2021-10-21T06:06:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5988" started-at="2021-10-21T06:06:44Z" finished-at="2021-10-21T06:06:50Z">
+      <class name="Org.cts.Testngdoc">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Org.cts.Testngdoc@47c62251]" name="launch" is-config="true" duration-ms="5945" started-at="2021-10-21T06:06:44Z" finished-at="2021-10-21T06:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:Org.cts.Testngdoc@47c62251]" name="startTime" is-config="true" duration-ms="3" started-at="2021-10-21T06:06:50Z" finished-at="2021-10-21T06:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="sout()[pri:0, instance:Org.cts.Testngdoc@47c62251]" name="sout" duration-ms="6" started-at="2021-10-21T06:06:50Z" finished-at="2021-10-21T06:06:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sout -->
+      </class> <!-- Org.cts.Testngdoc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
